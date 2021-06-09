@@ -41,9 +41,20 @@ seo:
       relativeUrl: true
 layout: post
 ---
+Me ha pasado muy seguido estar estresado por proyectos o tareas que debo hacer, girando en mi cabeza, ocupando espacio innecesario y atormentándome hasta cierto punto.
 
-Donec ultrices tincidunt arcu non sodales neque. Et netus et malesuada fames ac turpis egestas sed tempus. Cras pulvinar mattis nunc sed. Turpis cursus in hac habitasse platea dictumst quisque sagittis. Sollicitudin nibh sit amet commodo nulla facilisi nullam. Posuere ac ut consequat semper viverra nam. Ac tortor vitae purus faucibus ornare suspendisse sed nisi lacus. Egestas sed sed risus pretium quam vulputate dignissim suspendisse in. Tempor orci eu lobortis elementum nibh. Senectus et netus et malesuada fames ac turpis egestas integer. Id cursus metus aliquam eleifend mi in nulla posuere sollicitudin. Sed nisi lacus sed viverra tellus. Non curabitur gravida arcu ac tortor dignissim convallis aenean.
+La buena noticia es que hace muy poco he encontrado la solución, si hablo en voz audible lo que debo hacer y la agendo en un tiempo y espacio determinado, la preocupación se va inmediatamente debido a que ya sé que voy a hacer esa acción algún momento.
 
-Sem et tortor consequat id porta. Diam sit amet nisl suscipit adipiscing bibendum est ultricies. Amet nulla facilisi morbi tempus. Blandit massa enim nec dui nunc mattis. Non enim praesent elementum facilisis leo vel fringilla est. Eleifend quam adipiscing vitae proin sagittis nisl rhoncus. Mauris pellentesque pulvinar pellentesque habitant morbi tristique senectus et netus. Eget nunc lobortis mattis aliquam faucibus purus. Volutpat ac tincidunt vitae semper quis. Cursus eget nunc scelerisque viverra mauris. Purus semper eget duis at tellus at urna. Mauris commodo quis imperdiet massa tincidunt nunc pulvinar sapien. Sit amet consectetur adipiscing elit pellentesque habitant morbi tristique senectus. Nunc non blandit massa enim nec. Ut porttitor leo a diam sollicitudin.
+Funciona como un teléfono móvil, muchas veces lo llenamos de archivos basura que hace que su uso sea más lento, debemos eliminar esa memoria caché que queda guardada en nuestra cabeza y ponerla a un sitio que no moleste
 
-Tincidunt tortor aliquam nulla facilisi cras. Id semper risus in hendrerit. Magna fermentum iaculis eu non. At consectetur lorem donec massa sapien faucibus et. Est placerat in egestas erat imperdiet sed euismod nisi porta. Lacus vel facilisis volutpat est velit egestas dui. Sapien pellentesque habitant morbi tristique senectus et. Ut tellus elementum sagittis vitae et. Et malesuada fames ac turpis. Volutpat commodo sed egestas egestas. Praesent tristique magna sit amet purus gravida quis. Turpis egestas pretium aenean pharetra.
+Ese lugar es internet, existen muchas plataformas que te ayudan a organizar tu vida, como g-calendar, Notion, trello, jira
+
+Yo personalmente uso G-calendar y toda la suite de Google y es de la siguiente manera
+
+1.  creo carpetas en mi drive con los diferentes proyectos que tengo
+
+2.  Dentro de esas carpetas pongo documentos con información relevante
+
+3.  Si tengo una reunión la agendo en G-calendar, se conecta con mi teléfono y puedo tener todo interconectado
+
+4.  Los domingos reviso las tareas cumplidas y agregó las nuevas
