@@ -4,8 +4,8 @@ sections:
   - type: hero_section
     title: Me apasiona crear marcas que duren
     subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+      Blog personal donde hablo de marcas y como organizo mi vida para ser mas
+      productivo
     actions:
       - label: Learn More
         url: /features
