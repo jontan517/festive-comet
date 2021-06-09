@@ -1,5 +1,5 @@
 ---
-title: Amet Nulla Facilisi Morbi Tempus
+title: Exteriorizar tus tareas puede ayudarte a evitar el estrés
 date: '2020-06-02'
 author: content/data/team/gordon-norman.yaml
 categories:
