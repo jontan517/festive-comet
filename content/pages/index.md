@@ -77,7 +77,7 @@ sections:
       quis lorem malesuada luctus.
     actions:
       - label: LinkeIn
-        url: /features
+        url: 'https://www.linkedin.com/in/jonathan-david-rocha/'
         style: primary
     has_background: true
     background_color: gray
