@@ -10,9 +10,9 @@ tags:
 image: images/5.png
 image_alt: Post 5 placeholder image
 excerpt: >-
-  Estne, quaeso, inquam, sitienti in bibendo voluptas? Iam in altera
-  philosophiae parte. Quem Tiberina descensio festo illo die tanto gaudio
-  affecit, quanto.
+  Me ha pasado muy seguido estar estresado por proyectos o tareas que debo
+  hacer, girando en mi cabeza, ocupando espacio innecesario y atormentándome
+  hasta cierto punto.
 seo:
   title: Amet Nulla Facilisi Morbi Tempus
   description: 'Estne, quaeso, inquam, sitienti in bibendo voluptas'
