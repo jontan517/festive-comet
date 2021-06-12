@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Sobresale de tu competencia hablando.
-    subtitle: Encuentra ya como hablarle a tu cliente y vender más
+    subtitle: Encuentra ya como vender mas comunicando mejor
     actions:
       - label: Cuéntame mas
         url: /features
