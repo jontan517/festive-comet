@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Me apasiona crear marcas que duren
+    title: Sobresale de tu competencia
     subtitle: >-
       Blog personal donde hablo de marcas y como organizo mi vida para ser mas
       productivo
