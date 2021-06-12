@@ -63,7 +63,7 @@ sections:
           - label: Learn More
             url: /features
             style: secondary
-    title: 'Encontrarás:'
+    title: ¿Como te ayudo?
   - type: blog_feed_section
     title: What's New
     show_recent: true
