@@ -5,7 +5,7 @@ sections:
     title: Sobresale de tu competencia hablando mejor
     subtitle: Encuentra ya como hablarle a tu cliente y vender más
     actions:
-      - label: Cuentame mas
+      - label: Cuéntame mas
         url: /features
         style: primary
       - label: Contact Us
