@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Sobresale de tu competencia
+    title: Sobresale de tu competencia hablando mejor
     subtitle: >-
       Blog personal donde hablo de marcas y como organizo mi vida para ser mas
       productivo
