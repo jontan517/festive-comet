@@ -23,7 +23,6 @@ sections:
       background_image_size: auto
       background_image_repeat: repeat
   - type: features_section
-    title: 'Como te puede ayudar '
     features:
       - title: Feature 1
         content: >-
