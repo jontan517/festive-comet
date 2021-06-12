@@ -8,7 +8,7 @@ sections:
       - label: Cuéntame mas
         url: /features
         style: primary
-      - label: Contact Us
+      - label: Contactame
         url: /contact
         style: secondary
     align: left
