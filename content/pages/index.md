@@ -39,10 +39,7 @@ sections:
             url: /features
             style: secondary
       - title: Guías de comunicación de marcas
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: "Saber comunicarse de manera efectiva para resaltar sobre tu competencia\_\n"
         align: left
         image: images/feature.svg
         image_alt: Feature 2 placeholder image
