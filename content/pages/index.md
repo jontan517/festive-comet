@@ -90,9 +90,6 @@ seo:
       value: Stackbit Starter Theme
     - name: 'twitter:description'
       value: The preview of the Starter theme
-    - name: 'twitter:image'
-      value: images/starter-preview.png
-      relativeUrl: true
     - name: 'og:image'
       value: images/starter-preview.png
       keyName: property
