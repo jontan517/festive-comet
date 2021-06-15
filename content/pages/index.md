@@ -79,7 +79,7 @@ sections:
     background_color: gray
 seo:
   title: Jonathan Rocha marketer y creativo
-  description: The preview of the Starter theme
+  description: Ayudo a que tu marca sobresalga de la competencia
   extra:
     - name: 'og:type'
       value: website
