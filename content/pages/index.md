@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Sobresale cambio competencia hablando.
+    title: Sobresale de tu competencia hablando.
     subtitle: Encuentra ya como vender mas usando las palabras
     actions:
       - label: Cuéntame mas
