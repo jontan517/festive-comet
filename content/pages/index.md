@@ -63,7 +63,7 @@ sections:
             style: secondary
     title: ¿Como te ayudo?
   - type: blog_feed_section
-    title: What's New
+    title: Puede interesarte...
     show_recent: true
     recent_count: 3
   - type: cta_section
