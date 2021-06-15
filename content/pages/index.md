@@ -102,5 +102,9 @@ seo:
       value: Jonathan Rocha marketer y creativo
       keyName: property
       relativeUrl: false
+    - name: 'twitter:image'
+      value: Jonathan Rocha marketer y creativo
+      keyName: property
+      relativeUrl: true
 layout: advanced
 ---
