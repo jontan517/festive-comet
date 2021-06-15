@@ -78,7 +78,7 @@ sections:
     has_background: true
     background_color: gray
 seo:
-  title: Stackbit Starter Theme
+  title: Jonathan Rocha marketer y creativo
   description: The preview of the Starter theme
   extra:
     - name: 'og:type'
