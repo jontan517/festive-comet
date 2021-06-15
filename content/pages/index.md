@@ -75,7 +75,7 @@ sections:
       - label: LinkeIn
         url: 'https://www.linkedin.com/in/jonathan-david-rocha/'
         style: primary
-        new_window: true
+        new_window: false
     has_background: true
     background_color: gray
 seo:
