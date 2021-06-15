@@ -93,5 +93,9 @@ seo:
     - name: 'twitter:image'
       value: images/starter-preview.png
       relativeUrl: true
+    - name: 'og:image'
+      value: images/starter-preview.png
+      keyName: property
+      relativeUrl: true
 layout: advanced
 ---
