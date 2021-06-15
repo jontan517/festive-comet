@@ -89,7 +89,7 @@ seo:
     - name: 'twitter:title'
       value: Jonathan Rocha marketer y creativo
     - name: 'twitter:description'
-      value: The preview of the Starter theme
+      value: Ayudo a que tu marca sobresalga de la competencia
     - name: 'og:image'
       value: images/starter-preview.png
       keyName: property
