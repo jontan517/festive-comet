@@ -97,5 +97,9 @@ seo:
       value: images/starter-preview.png
       keyName: property
       relativeUrl: true
+    - name: 'og:description'
+      value: Ayudo a que tu marca sobresalga de la competencia
+      keyName: property
+      relativeUrl: false
 layout: advanced
 ---
