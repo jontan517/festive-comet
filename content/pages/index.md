@@ -98,5 +98,9 @@ seo:
       value: Ayudo a que tu marca sobresalga de la competencia
       keyName: property
       relativeUrl: false
+    - name: 'og:title'
+      value: Jonathan Rocha marketer y creativo
+      keyName: property
+      relativeUrl: false
 layout: advanced
 ---
