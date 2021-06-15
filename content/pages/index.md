@@ -25,10 +25,11 @@ sections:
   - type: features_section
     features:
       - title: Aprende estrategias de marketing
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: >+
+          Comienza con pie derecho la creación de contenidos para tu marca en
+          redes sociales.
+
+
         align: left
         image: images/feature.svg
         image_alt: Feature 1 placeholder image
