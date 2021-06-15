@@ -66,7 +66,7 @@
                 "new_window": true
             }
         ],
-        "content": "&copy; Stackbit. All rights reserved. This Jamstack site was created with <a href=\"https://www.stackbit.com/?utm_source=deployed-footer\" "
+        "content": "&copy; Stackbit. All rights reserved. This Jamstack site was created with <a href=\"https://www.stackbit.com/?utm_source=deployed-footer\" target="
     },
     "domain": "https://Jonathanrocha.netlify.app",
     "title": "Jonathan Rocha Marketer y creativo",
