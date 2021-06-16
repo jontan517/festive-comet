@@ -2,7 +2,7 @@
 title: Who We Are
 sections:
   - type: hero_section
-    title: Quien soy
+    title: Quiero ayudarte para que tu marca sea única.
     align: center
   - type: content_section
     content: >-
