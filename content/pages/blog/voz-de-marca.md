@@ -12,7 +12,7 @@ seo:
   type: stackbit_page_meta
 layout: post
 excerpt: lorem-ipsum
-image: /images/banner-linkedin-new.jpg
+image: /images/1.png
 ---
 ## Crea tu estilo
 
