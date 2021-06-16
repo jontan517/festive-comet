@@ -13,8 +13,8 @@ sections:
 
 
       Soy Jonathan Rocha, tengo 16 años y a pesar de mi corta edad he
-      descubierto que** el marketing es mi pasión.** Pasando por muchos hobbies
-      y actividades que me han ayudado a ser quien soy
+      descubierto que el marketing es mi pasión. Pasando por muchos hobbies y
+      actividades que me han ayudado a ser quien soy
   - type: team_section
     title: Our Team
     team:
