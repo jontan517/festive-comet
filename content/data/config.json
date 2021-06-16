@@ -27,7 +27,7 @@
             {
                 "label": "Contacto",
                 "url": "/contact",
-                "style": "link"
+                "style": "primary"
             }
         ]
     },
