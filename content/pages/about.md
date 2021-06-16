@@ -5,19 +5,16 @@ sections:
     title: Quiero ayudarte para que tu marca sea única.
     align: center
   - type: content_section
-    content: >-
-      Nisi porta lorem mollis aliquam ut porttitor. Pellentesque dignissim enim
-      sit amet venenatis urna cursus eget nunc. Dui nunc mattis enim ut tellus.
-      Eu sem integer vitae justo eget magna fermentum. Habitant morbi tristique
-      senectus et netus et malesuada fames. Ipsum dolor sit amet consectetur
-      adipiscing elit pellentesque habitant.
+    content: >
+      Desde hace años me ha apasionado el mundo de las marcas, pero de algo que
+      me he dado cuenta es que existen muchas de ellas que no saben como dar su
+      mensaje de forma efectiva. Ese motivo me inspiró para optimizar la manera
+      en la que un emprendimiento o negocio se expresa.
 
 
-      Aliquet lectus proin nibh nisl condimentum id venenatis a condimentum. Ac
-      felis donec et odio pellentesque. Sem nulla pharetra diam sit amet.
-      Egestas tellus rutrum tellus pellentesque eu. Auctor augue mauris augue
-      neque. Lectus arcu bibendum at varius vel pharetra. Enim sed faucibus
-      turpis in eu mi bibendum neque egestas.
+      Soy Jonathan Rocha, tengo 16 años y a pesar de mi corta edad he
+      descubierto que el marketing es mi pasión. Pasando por muchos hobbies y
+      actividades que me han ayudado a ser quien soy
   - type: team_section
     title: Our Team
     team:
