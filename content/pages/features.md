@@ -71,7 +71,9 @@ seo:
     - name: 'twitter:title'
       value: Como te ayudo
     - name: 'twitter:description'
-      value: This is the features page
+      value: >-
+        Comienza con pie derecho la creación de contenidos para tu marca en
+        redes sociales.
     - name: 'twitter:image'
       value: images/5.png
       relativeUrl: true
