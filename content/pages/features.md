@@ -47,7 +47,9 @@ sections:
             style: primary
 seo:
   title: Como te ayudo
-  description: This is the features page
+  description: >-
+    Comienza con pie derecho la creación de contenidos para tu marca en redes
+    sociales.
   extra:
     - name: 'og:type'
       value: website
