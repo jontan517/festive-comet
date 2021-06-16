@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Crea la voz de tu marca
 date: '2021-06-16'
 categories: []
 tags: []
