@@ -46,7 +46,7 @@ sections:
             url: /blog
             style: primary
 seo:
-  title: Features
+  title: Como te ayudo
   description: This is the features page
   extra:
     - name: 'og:type'
