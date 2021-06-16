@@ -7,7 +7,7 @@ sections:
     align: center
   - type: features_section
     features:
-      - title: Feature 1
+      - title: Aprende estrategias de marketing
         content: >+
           Comienza con pie derecho la creación de contenidos para tu marca en
           redes sociales.
