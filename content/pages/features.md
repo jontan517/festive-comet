@@ -55,7 +55,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Features
+      value: Como te ayudo
       keyName: property
     - name: 'og:description'
       value: This is the features page
