@@ -6,6 +6,9 @@ sections:
     align: center
   - type: content_section
     content: >
+      ![](/\_static/app-assets/images/perpetual-panda.jpg)
+
+
       Desde hace años me ha apasionado el mundo de las marcas, pero de algo que
       me he dado cuenta es que existen muchas de ellas que no saben como dar su
       mensaje de forma efectiva. Ese motivo me inspiró para optimizar la manera
