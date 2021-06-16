@@ -4,7 +4,6 @@ date: '2021-06-16'
 categories: []
 tags: []
 image_alt: lorem-ipsum
-excerpt: lorem-ipsum
 seo:
   title: ''
   description: ''
