@@ -13,9 +13,6 @@ seo:
 layout: post
 excerpt: lorem-ipsum
 ---
-## Lorem ipsum
+## Crea tu estilo
 
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-- Lorem ipsum
-- dolor sit amet
+En tu negocio, marca o emprendimiento puedes hablar de diferentes formas dependiendo del valor que quieres transmitir, el publico al que quieres llegar y los productos que buscas vender
