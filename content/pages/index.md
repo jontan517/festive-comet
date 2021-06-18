@@ -92,7 +92,7 @@ seo:
     - name: 'twitter:description'
       value: Ayudo a que tu marca sobresalga de la competencia
     - name: 'og:image'
-      value: /_static/app-assets/images/terrific-sage.jpg
+      value: /_static/app-assets/images/Img-para-web.jpg
       keyName: property
       relativeUrl: true
     - name: 'og:description'
