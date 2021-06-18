@@ -104,7 +104,7 @@ seo:
       keyName: property
       relativeUrl: false
     - name: 'twitter:image'
-      value: /_static/app-assets/images/profile-redes.jpg
+      value: /_static/app-assets/images/Img-para-web.jpg
       keyName: property
       relativeUrl: true
 layout: advanced
